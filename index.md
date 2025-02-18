@@ -2,5 +2,7 @@
 title: Welcome to my blog
 ---
 
-[Taecho Deeplink Ad](com.nexon.baram://taecho)
+[iOS Taecho Deeplink Ad](25yc.adj.st/taecho)
+
+[Android Taecho Deeplink Ad](com.nexon.baram://taecho)
 
